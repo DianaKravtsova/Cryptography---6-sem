@@ -1,0 +1,11 @@
+Rotor: 3 * 2 * 1 = 6;
+Starting positions: 26 * 26 * 26 = 17576;
+Rings: 26 * 26 = 676;
+Summary: 6 * 17576 * 676 = 71 288 256 ~ 2^26;
+
+OR
+
+Rotor: 10 * 9 * 8 = 720;
+Starting positions: 26 * 26 * 26 = 17576;
+Rings: 26 * 26 = 676;
+Summary: 720 * 17576 * 676 = 8 554 590 720 ~ 2^33;
